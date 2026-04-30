@@ -1,5 +1,5 @@
 %% =========================================================
-%  PROCESADO HSI: Identificación composicional en industria cárnica
+%  PROCESADO HSI: Identificación composicional en industria cárnica 
 % =========================================================
 %  ESTRUCTURA DE ARCHIVOS ESPERADA:
 %    /ph_carne/VISNIR/carne.mat       -> cubo HSI de la cubeta de carne
