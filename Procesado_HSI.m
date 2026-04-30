@@ -1,7 +1,5 @@
 %% =========================================================
-%  PRÁCTICA HSI: Identificación composicional en industria cárnica
-%  M2026 – Técnicas para el Monitorizado y Control de Procesos Industriales
-%  Universidad de Cantabria
+%  PROCESADO HSI: Identificación composicional en industria cárnica
 % =========================================================
 %  ESTRUCTURA DE ARCHIVOS ESPERADA:
 %    /ph_carne/VISNIR/carne.mat       -> cubo HSI de la cubeta de carne
